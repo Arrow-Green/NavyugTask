@@ -1,0 +1,3 @@
+export const FETCH_USERS = 'fetch_users',
+    FETCH_USER_POSTS = 'FETCH_USER_POSTS',
+    FETCH_USER_COMMENTS = 'FETCH_USER_COMMENTS';
